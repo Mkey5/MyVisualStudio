@@ -1,0 +1,6 @@
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\02.Print-Company-Information\bin\Debug\02.Print-Company-Information.exe.config
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\02.Print-Company-Information\bin\Debug\02.Print-Company-Information.exe
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\02.Print-Company-Information\bin\Debug\02.Print-Company-Information.pdb
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\02.Print-Company-Information\obj\Debug\02.Print-Company-Information.csprojResolveAssemblyReference.cache
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\02.Print-Company-Information\obj\Debug\02.Print-Company-Information.exe
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\02.Print-Company-Information\obj\Debug\02.Print-Company-Information.pdb

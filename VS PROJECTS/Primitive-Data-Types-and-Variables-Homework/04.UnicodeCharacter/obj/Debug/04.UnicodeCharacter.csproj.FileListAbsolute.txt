@@ -1,0 +1,6 @@
+D:\VS PROJECTS\Primitive-Data-Types-and-Variables-Homework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
+D:\VS PROJECTS\Primitive-Data-Types-and-Variables-Homework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe
+D:\VS PROJECTS\Primitive-Data-Types-and-Variables-Homework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.pdb
+D:\VS PROJECTS\Primitive-Data-Types-and-Variables-Homework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.csprojResolveAssemblyReference.cache
+D:\VS PROJECTS\Primitive-Data-Types-and-Variables-Homework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
+D:\VS PROJECTS\Primitive-Data-Types-and-Variables-Homework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb

@@ -1,0 +1,6 @@
+D:\VS PROJECTS\PROJECT !!!\PROJECT !!!\bin\Debug\PROJECT !!!.exe.config
+D:\VS PROJECTS\PROJECT !!!\PROJECT !!!\bin\Debug\PROJECT !!!.exe
+D:\VS PROJECTS\PROJECT !!!\PROJECT !!!\bin\Debug\PROJECT !!!.pdb
+D:\VS PROJECTS\PROJECT !!!\PROJECT !!!\obj\Debug\PROJECT !!!.csprojResolveAssemblyReference.cache
+D:\VS PROJECTS\PROJECT !!!\PROJECT !!!\obj\Debug\PROJECT !!!.exe
+D:\VS PROJECTS\PROJECT !!!\PROJECT !!!\obj\Debug\PROJECT !!!.pdb

@@ -1,0 +1,6 @@
+D:\VS PROJECTS\MyExam8November\03.Problem\bin\Debug\03.Problem.exe.config
+D:\VS PROJECTS\MyExam8November\03.Problem\obj\Debug\03.Problem.exe
+D:\VS PROJECTS\MyExam8November\03.Problem\obj\Debug\03.Problem.pdb
+D:\VS PROJECTS\MyExam8November\03.Problem\obj\Debug\03.RockLq.csprojResolveAssemblyReference.cache
+D:\VS PROJECTS\MyExam8November\03.Problem\bin\Debug\03.Problem.exe
+D:\VS PROJECTS\MyExam8November\03.Problem\bin\Debug\03.Problem.pdb

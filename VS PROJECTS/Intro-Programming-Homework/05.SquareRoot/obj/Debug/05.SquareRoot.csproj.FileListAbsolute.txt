@@ -1,0 +1,5 @@
+D:\VS PROJECTS\Intro-Programming-Homework\05.SquareRoot\bin\Debug\05.SquareRoot.exe.config
+D:\VS PROJECTS\Intro-Programming-Homework\05.SquareRoot\bin\Debug\05.SquareRoot.exe
+D:\VS PROJECTS\Intro-Programming-Homework\05.SquareRoot\bin\Debug\05.SquareRoot.pdb
+D:\VS PROJECTS\Intro-Programming-Homework\05.SquareRoot\obj\Debug\05.SquareRoot.exe
+D:\VS PROJECTS\Intro-Programming-Homework\05.SquareRoot\obj\Debug\05.SquareRoot.pdb

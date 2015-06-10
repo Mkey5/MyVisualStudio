@@ -1,0 +1,5 @@
+D:\VS PROJECTS\Operators-Expressions-and-Statements-Homework\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe.config
+D:\VS PROJECTS\Operators-Expressions-and-Statements-Homework\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe
+D:\VS PROJECTS\Operators-Expressions-and-Statements-Homework\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.pdb
+D:\VS PROJECTS\Operators-Expressions-and-Statements-Homework\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.exe
+D:\VS PROJECTS\Operators-Expressions-and-Statements-Homework\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.pdb

@@ -1,0 +1,6 @@
+D:\VS PROJECTS\TestingOOP\TestingOOP\bin\Debug\TestingOOP.exe.config
+D:\VS PROJECTS\TestingOOP\TestingOOP\bin\Debug\TestingOOP.exe
+D:\VS PROJECTS\TestingOOP\TestingOOP\bin\Debug\TestingOOP.pdb
+D:\VS PROJECTS\TestingOOP\TestingOOP\obj\Debug\TestingOOP.csprojResolveAssemblyReference.cache
+D:\VS PROJECTS\TestingOOP\TestingOOP\obj\Debug\TestingOOP.exe
+D:\VS PROJECTS\TestingOOP\TestingOOP\obj\Debug\TestingOOP.pdb

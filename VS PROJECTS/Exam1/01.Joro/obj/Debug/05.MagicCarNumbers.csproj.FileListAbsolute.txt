@@ -1,0 +1,6 @@
+D:\VS PROJECTS\Exam1\01.Joro\bin\Debug\01.Joro.exe.config
+D:\VS PROJECTS\Exam1\01.Joro\bin\Debug\01.Joro.exe
+D:\VS PROJECTS\Exam1\01.Joro\bin\Debug\01.Joro.pdb
+D:\VS PROJECTS\Exam1\01.Joro\obj\Debug\05.MagicCarNumbers.csprojResolveAssemblyReference.cache
+D:\VS PROJECTS\Exam1\01.Joro\obj\Debug\01.Joro.exe
+D:\VS PROJECTS\Exam1\01.Joro\obj\Debug\01.Joro.pdb

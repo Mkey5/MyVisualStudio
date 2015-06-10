@@ -1,0 +1,21 @@
+C:\Users\DELL\Desktop\Вход и изход от конзолата\Console-Input-Output\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+C:\Users\DELL\Desktop\Вход и изход от конзолата\Console-Input-Output\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+C:\Users\DELL\Desktop\Вход и изход от конзолата\Console-Input-Output\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+C:\Users\DELL\Desktop\Вход и изход от конзолата\Console-Input-Output\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Вход и изход от конзолата\Console-Input-Output\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+C:\Users\DELL\Desktop\Вход и изход от конзолата\Console-Input-Output\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb
+C:\Users\DELL\Desktop\Вход и изход от конзолата\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+C:\Users\DELL\Desktop\Вход и изход от конзолата\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+C:\Users\DELL\Desktop\Вход и изход от конзолата\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb
+C:\Users\DELL\Desktop\Вход и изход от конзолата\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+C:\Users\DELL\Desktop\Вход и изход от конзолата\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+C:\Users\DELL\Desktop\Вход и изход от конзолата\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb

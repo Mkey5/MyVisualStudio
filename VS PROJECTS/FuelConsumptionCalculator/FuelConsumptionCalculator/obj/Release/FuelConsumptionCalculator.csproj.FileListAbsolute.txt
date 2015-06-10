@@ -1,0 +1,6 @@
+D:\VS PROJECTS\FuelConsumptionCalculator\FuelConsumptionCalculator\bin\Release\FuelConsumptionCalculator.exe.config
+D:\VS PROJECTS\FuelConsumptionCalculator\FuelConsumptionCalculator\bin\Release\FuelConsumptionCalculator.exe
+D:\VS PROJECTS\FuelConsumptionCalculator\FuelConsumptionCalculator\bin\Release\FuelConsumptionCalculator.pdb
+D:\VS PROJECTS\FuelConsumptionCalculator\FuelConsumptionCalculator\obj\Release\FuelConsumptionCalculator.csprojResolveAssemblyReference.cache
+D:\VS PROJECTS\FuelConsumptionCalculator\FuelConsumptionCalculator\obj\Release\FuelConsumptionCalculator.exe
+D:\VS PROJECTS\FuelConsumptionCalculator\FuelConsumptionCalculator\obj\Release\FuelConsumptionCalculator.pdb

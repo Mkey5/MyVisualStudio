@@ -1,0 +1,6 @@
+D:\VS PROJECTS\GoodJob\GoodJob\bin\Debug\GoodJob.exe.config
+D:\VS PROJECTS\GoodJob\GoodJob\obj\Debug\GoodJob.csprojResolveAssemblyReference.cache
+D:\VS PROJECTS\GoodJob\GoodJob\bin\Debug\GoodJob.exe
+D:\VS PROJECTS\GoodJob\GoodJob\bin\Debug\GoodJob.pdb
+D:\VS PROJECTS\GoodJob\GoodJob\obj\Debug\GoodJob.exe
+D:\VS PROJECTS\GoodJob\GoodJob\obj\Debug\GoodJob.pdb

@@ -1,0 +1,15 @@
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\02.Print-Company-Information\bin\Debug\02.Print-Company-Information.exe.config
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\02.Print-Company-Information\obj\Debug\02.Print-Company-Information.exe
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\02.Print-Company-Information\obj\Debug\02.Print-Company-Information.pdb
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\02.Print-Company-Information\obj\Debug\02.PrintCompanyInformation.csprojResolveAssemblyReference.cache
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\02.Print-Company-Information\bin\Debug\02.Print-Company-Information.exe
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\02.Print-Company-Information\bin\Debug\02.Print-Company-Information.pdb
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\02.Print-Company-Information\bin\Debug\02.Print-Company-Information.exe.config
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\02.Print-Company-Information\obj\Debug\02.Print-Company-Information.exe
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\02.Print-Company-Information\obj\Debug\02.Print-Company-Information.pdb
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\02.Print-Company-Information\bin\Debug\02.Print-Company-Information.exe.config
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\02.Print-Company-Information\bin\Debug\02.Print-Company-Information.exe
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\02.Print-Company-Information\bin\Debug\02.Print-Company-Information.pdb
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\02.Print-Company-Information\obj\Debug\02.PrintCompanyInformation.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\02.Print-Company-Information\obj\Debug\02.Print-Company-Information.exe
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\02.Print-Company-Information\obj\Debug\02.Print-Company-Information.pdb

@@ -1,0 +1,18 @@
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe.config
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.csprojResolveAssemblyReference.cache
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.pdb
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.exe
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.pdb
+C:\Users\DELL\Desktop\Вход и изход от конзолата\Console-Input-Output\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe.config
+C:\Users\DELL\Desktop\Вход и изход от конзолата\Console-Input-Output\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.exe
+C:\Users\DELL\Desktop\Вход и изход от конзолата\Console-Input-Output\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.pdb
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe.config
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.exe
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.pdb
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe.config
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.pdb
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.exe
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.pdb

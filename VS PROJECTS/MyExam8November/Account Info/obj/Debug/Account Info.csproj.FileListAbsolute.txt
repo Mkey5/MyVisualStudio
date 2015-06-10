@@ -1,0 +1,6 @@
+D:\VS PROJECTS\MyExam8November\Account Info\bin\Debug\Account Info.exe.config
+D:\VS PROJECTS\MyExam8November\Account Info\bin\Debug\Account Info.exe
+D:\VS PROJECTS\MyExam8November\Account Info\bin\Debug\Account Info.pdb
+D:\VS PROJECTS\MyExam8November\Account Info\obj\Debug\Account Info.csprojResolveAssemblyReference.cache
+D:\VS PROJECTS\MyExam8November\Account Info\obj\Debug\Account Info.exe
+D:\VS PROJECTS\MyExam8November\Account Info\obj\Debug\Account Info.pdb

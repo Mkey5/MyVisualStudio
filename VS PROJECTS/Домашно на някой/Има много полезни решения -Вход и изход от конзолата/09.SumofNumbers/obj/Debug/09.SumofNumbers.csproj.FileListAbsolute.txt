@@ -1,0 +1,15 @@
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\09.SumofNumbers\bin\Debug\09.SumofNumbers.exe.config
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\09.SumofNumbers\bin\Debug\09.SumofNumbers.exe
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\09.SumofNumbers\bin\Debug\09.SumofNumbers.pdb
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\09.SumofNumbers\obj\Debug\09.SumofNumbers.csprojResolveAssemblyReference.cache
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\09.SumofNumbers\obj\Debug\09.SumofNumbers.exe
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\09.SumofNumbers\obj\Debug\09.SumofNumbers.pdb
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\09.SumofNumbers\bin\Debug\09.SumofNumbers.exe.config
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\09.SumofNumbers\obj\Debug\09.SumofNumbers.exe
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\09.SumofNumbers\obj\Debug\09.SumofNumbers.pdb
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\09.SumofNumbers\bin\Debug\09.SumofNumbers.exe.config
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\09.SumofNumbers\bin\Debug\09.SumofNumbers.exe
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\09.SumofNumbers\bin\Debug\09.SumofNumbers.pdb
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\09.SumofNumbers\obj\Debug\09.SumofNumbers.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\09.SumofNumbers\obj\Debug\09.SumofNumbers.exe
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\09.SumofNumbers\obj\Debug\09.SumofNumbers.pdb

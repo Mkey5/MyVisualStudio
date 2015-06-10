@@ -1,0 +1,5 @@
+D:\VS PROJECTS\Intro-Programming-Homework\06.PrintASequence\bin\Debug\06.PrintASequence.exe.config
+D:\VS PROJECTS\Intro-Programming-Homework\06.PrintASequence\bin\Debug\06.PrintASequence.exe
+D:\VS PROJECTS\Intro-Programming-Homework\06.PrintASequence\bin\Debug\06.PrintASequence.pdb
+D:\VS PROJECTS\Intro-Programming-Homework\06.PrintASequence\obj\Debug\06.PrintASequence.exe
+D:\VS PROJECTS\Intro-Programming-Homework\06.PrintASequence\obj\Debug\06.PrintASequence.pdb

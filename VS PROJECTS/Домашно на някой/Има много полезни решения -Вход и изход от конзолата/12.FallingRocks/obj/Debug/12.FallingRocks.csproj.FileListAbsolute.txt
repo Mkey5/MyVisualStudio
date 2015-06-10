@@ -1,0 +1,19 @@
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\12.FallingRocks\bin\Debug\12.FallingRocks.exe.config
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\12.FallingRocks\bin\Debug\12.FallingRocks.exe
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\12.FallingRocks\bin\Debug\12.FallingRocks.pdb
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\12.FallingRocks\obj\Debug\12.FallingRocks.exe
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\12.FallingRocks\obj\Debug\12.FallingRocks.pdb
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\12.FallingRocks\bin\Debug\12.FallingRocks.exe.config
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\12.FallingRocks\bin\Debug\12.FallingRocks.exe
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\12.FallingRocks\bin\Debug\12.FallingRocks.pdb
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\12.FallingRocks\obj\Debug\12.FallingRocks.exe
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\12.FallingRocks\obj\Debug\12.FallingRocks.pdb
+C:\Users\Marek\Desktop\Домашно на някой\Вход и изход от конзолата\12.FallingRocks\bin\Debug\12.FallingRocks.exe.config
+C:\Users\Marek\Desktop\Домашно на някой\Вход и изход от конзолата\12.FallingRocks\obj\Debug\12.FallingRocks.exe
+C:\Users\Marek\Desktop\Домашно на някой\Вход и изход от конзолата\12.FallingRocks\obj\Debug\12.FallingRocks.pdb
+C:\Users\Marek\Desktop\Домашно на някой\Има много полезни решения -Вход и изход от конзолата\12.FallingRocks\bin\Debug\12.FallingRocks.exe.config
+C:\Users\Marek\Desktop\Домашно на някой\Има много полезни решения -Вход и изход от конзолата\12.FallingRocks\obj\Debug\12.FallingRocks.exe
+C:\Users\Marek\Desktop\Домашно на някой\Има много полезни решения -Вход и изход от конзолата\12.FallingRocks\obj\Debug\12.FallingRocks.pdb
+C:\Users\Marek\Desktop\Домашно на някой\Има много полезни решения -Вход и изход от конзолата\12.FallingRocks\bin\Debug\12.FallingRocks.exe
+C:\Users\Marek\Desktop\Домашно на някой\Има много полезни решения -Вход и изход от конзолата\12.FallingRocks\bin\Debug\12.FallingRocks.pdb
+C:\Users\Marek\Desktop\Домашно на някой\Има много полезни решения -Вход и изход от конзолата\12.FallingRocks\obj\Debug\12.FallingRocks.csprojResolveAssemblyReference.cache

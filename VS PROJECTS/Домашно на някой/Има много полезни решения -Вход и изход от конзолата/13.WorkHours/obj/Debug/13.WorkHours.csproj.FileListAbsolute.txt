@@ -1,0 +1,15 @@
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\13.WorkHours\bin\Debug\13.WorkHours.exe.config
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\13.WorkHours\obj\Debug\13.WorkHours.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\13.WorkHours\bin\Debug\13.WorkHours.exe
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\13.WorkHours\bin\Debug\13.WorkHours.pdb
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\13.WorkHours\obj\Debug\13.WorkHours.exe
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\13.WorkHours\obj\Debug\13.WorkHours.pdb
+C:\Users\Marek\Desktop\Домашно на някой\Вход и изход от конзолата\13.WorkHours\bin\Debug\13.WorkHours.exe.config
+C:\Users\Marek\Desktop\Домашно на някой\Вход и изход от конзолата\13.WorkHours\obj\Debug\13.WorkHours.exe
+C:\Users\Marek\Desktop\Домашно на някой\Вход и изход от конзолата\13.WorkHours\obj\Debug\13.WorkHours.pdb
+C:\Users\Marek\Desktop\Домашно на някой\Има много полезни решения -Вход и изход от конзолата\13.WorkHours\bin\Debug\13.WorkHours.exe.config
+C:\Users\Marek\Desktop\Домашно на някой\Има много полезни решения -Вход и изход от конзолата\13.WorkHours\obj\Debug\13.WorkHours.exe
+C:\Users\Marek\Desktop\Домашно на някой\Има много полезни решения -Вход и изход от конзолата\13.WorkHours\obj\Debug\13.WorkHours.pdb
+C:\Users\Marek\Desktop\Домашно на някой\Има много полезни решения -Вход и изход от конзолата\13.WorkHours\bin\Debug\13.WorkHours.exe
+C:\Users\Marek\Desktop\Домашно на някой\Има много полезни решения -Вход и изход от конзолата\13.WorkHours\bin\Debug\13.WorkHours.pdb
+C:\Users\Marek\Desktop\Домашно на някой\Има много полезни решения -Вход и изход от конзолата\13.WorkHours\obj\Debug\13.WorkHours.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\VS PROJECTS\Loops-Homework\02.NumbersNotDivisibleBy3And7\bin\Debug\02.NumbersNotDivisibleBy3And7.exe.config
+D:\VS PROJECTS\Loops-Homework\02.NumbersNotDivisibleBy3And7\bin\Debug\02.NumbersNotDivisibleBy3And7.exe
+D:\VS PROJECTS\Loops-Homework\02.NumbersNotDivisibleBy3And7\bin\Debug\02.NumbersNotDivisibleBy3And7.pdb
+D:\VS PROJECTS\Loops-Homework\02.NumbersNotDivisibleBy3And7\obj\Debug\02.NumbersNotDivisibleBy3And7.csprojResolveAssemblyReference.cache
+D:\VS PROJECTS\Loops-Homework\02.NumbersNotDivisibleBy3And7\obj\Debug\02.NumbersNotDivisibleBy3And7.exe
+D:\VS PROJECTS\Loops-Homework\02.NumbersNotDivisibleBy3And7\obj\Debug\02.NumbersNotDivisibleBy3And7.pdb

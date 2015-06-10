@@ -1,0 +1,6 @@
+D:\VS PROJECTS\CSharpBasicLab\02.Nums\bin\Debug\02.Nums.exe.config
+D:\VS PROJECTS\CSharpBasicLab\02.Nums\bin\Debug\02.Nums.exe
+D:\VS PROJECTS\CSharpBasicLab\02.Nums\bin\Debug\02.Nums.pdb
+D:\VS PROJECTS\CSharpBasicLab\02.Nums\obj\Debug\02.Nums.csprojResolveAssemblyReference.cache
+D:\VS PROJECTS\CSharpBasicLab\02.Nums\obj\Debug\02.Nums.exe
+D:\VS PROJECTS\CSharpBasicLab\02.Nums\obj\Debug\02.Nums.pdb

@@ -1,0 +1,6 @@
+D:\VS PROJECTS\Operators-Expressions-and-Statements-Homework\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe.config
+D:\VS PROJECTS\Operators-Expressions-and-Statements-Homework\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe
+D:\VS PROJECTS\Operators-Expressions-and-Statements-Homework\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.pdb
+D:\VS PROJECTS\Operators-Expressions-and-Statements-Homework\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.exe
+D:\VS PROJECTS\Operators-Expressions-and-Statements-Homework\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.pdb
+D:\VS PROJECTS\Operators-Expressions-and-Statements-Homework\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.csprojResolveAssemblyReference.cache

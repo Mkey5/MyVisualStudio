@@ -1,0 +1,15 @@
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe.config
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.pdb
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.csprojResolveAssemblyReference.cache
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.exe
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.pdb
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe.config
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.exe
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.pdb
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe.config
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.pdb
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.exe
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.pdb

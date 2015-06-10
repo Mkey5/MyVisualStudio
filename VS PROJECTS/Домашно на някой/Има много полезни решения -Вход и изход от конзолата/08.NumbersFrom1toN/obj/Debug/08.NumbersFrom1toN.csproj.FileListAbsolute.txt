@@ -1,0 +1,15 @@
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe.config
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.pdb
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.csprojResolveAssemblyReference.cache
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.exe
+C:\Users\DELL\documents\visual studio 2012\Projects\Console-Input-Output\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.pdb
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe.config
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.exe
+C:\Users\DELL\Desktop\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.pdb
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe.config
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.pdb
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.exe
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.pdb

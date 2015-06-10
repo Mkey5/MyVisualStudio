@@ -1,0 +1,6 @@
+D:\VS PROJECTS\ExamAugust21\01.Tables\bin\Debug\01.Tables.exe.config
+D:\VS PROJECTS\ExamAugust21\01.Tables\bin\Debug\01.Tables.exe
+D:\VS PROJECTS\ExamAugust21\01.Tables\bin\Debug\01.Tables.pdb
+D:\VS PROJECTS\ExamAugust21\01.Tables\obj\Debug\01.Tables.csprojResolveAssemblyReference.cache
+D:\VS PROJECTS\ExamAugust21\01.Tables\obj\Debug\01.Tables.exe
+D:\VS PROJECTS\ExamAugust21\01.Tables\obj\Debug\01.Tables.pdb

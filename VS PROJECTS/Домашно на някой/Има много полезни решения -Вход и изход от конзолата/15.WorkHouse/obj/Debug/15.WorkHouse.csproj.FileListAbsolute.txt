@@ -1,0 +1,12 @@
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\15.WorkHouse\bin\Debug\15.WorkHouse.exe.config
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\15.WorkHouse\bin\Debug\15.WorkHouse.exe
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\15.WorkHouse\bin\Debug\15.WorkHouse.pdb
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\15.WorkHouse\obj\Debug\15.WorkHouse.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\15.WorkHouse\obj\Debug\15.WorkHouse.exe
+D:\SOFTUNI\Вход и изход от конзолата\Вход и изход от конзолата\15.WorkHouse\obj\Debug\15.WorkHouse.pdb
+C:\Users\Marek\Desktop\Домашно на някой\Вход и изход от конзолата\15.WorkHouse\bin\Debug\15.WorkHouse.exe.config
+C:\Users\Marek\Desktop\Домашно на някой\Вход и изход от конзолата\15.WorkHouse\obj\Debug\15.WorkHouse.exe
+C:\Users\Marek\Desktop\Домашно на някой\Вход и изход от конзолата\15.WorkHouse\obj\Debug\15.WorkHouse.pdb
+C:\Users\Marek\Desktop\Домашно на някой\Има много полезни решения -Вход и изход от конзолата\15.WorkHouse\bin\Debug\15.WorkHouse.exe.config
+C:\Users\Marek\Desktop\Домашно на някой\Има много полезни решения -Вход и изход от конзолата\15.WorkHouse\obj\Debug\15.WorkHouse.exe
+C:\Users\Marek\Desktop\Домашно на някой\Има много полезни решения -Вход и изход от конзолата\15.WorkHouse\obj\Debug\15.WorkHouse.pdb
